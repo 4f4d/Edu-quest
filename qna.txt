@@ -1,0 +1,17 @@
+Ques{ What is the atomic wt of C a)14 b)16 c)10 d)12 }~ Ans{ d }~ Expl{ The atomic weight of Carbon is 12 amu because it has 6 protons and 6 neutrons in its most common isotope. }~
+
+Ques{ What is the SI unit of force? a)Newton b)Joule c)Pascal d)Watt }~ Ans{ a }~ Expl{ Force is measured in Newton (N), where 1 N = 1 kg·m/s². }~
+
+Ques{ Who is known as the father of genetics? a)Darwin b)Lamarck c)Mendel d)Pasteur }~ Ans{ c }~ Expl{ Gregor Mendel is called the father of genetics for his pea plant experiments establishing laws of inheritance. }~
+
+Ques{ Which law states "Current is directly proportional to voltage at constant temperature"? a)Newton’s law b)Ohm’s law c)Hooke’s law d)Boyle’s law }~ Ans{ b }~ Expl{ Ohm’s law states V ∝ I, meaning voltage is directly proportional to current if resistance is constant. }~
+
+Ques{ What is the valency of oxygen? a)1 b)2 c)3 d)4 }~ Ans{ b }~ Expl{ Oxygen has 6 valence electrons and requires 2 more to complete its octet, so its valency is 2. }~
+
+Ques{ Which planet is called the Red Planet? a)Venus b)Mars c)Jupiter d)Mercury }~ Ans{ b }~ Expl{ Mars is called the Red Planet because its surface contains iron oxide (rust), giving it a reddish color. }~
+
+Ques{ The chemical formula of quicklime is: a)CaO b)CaCO₃ c)Ca(OH)₂ d)CaCl₂ }~ Ans{ a }~ Expl{ Quicklime is calcium oxide (CaO), obtained by heating limestone (CaCO₃). }~
+
+Ques{ Acceleration due to gravity on Earth is approximately: a)8.9 m/s² b)9.8 m/s² c)10.8 m/s² d)11.9 m/s² }~ Ans{ b }~ Expl{ The average acceleration due to gravity on Earth’s surface is 9.8 m/s². }~
+
+Ques{ Which gas is used in photosynthesis? a)Oxygen b)Carbon dioxide c)Nitrogen d)Hydrogen }~ Ans{ b }~ Expl{ Plants use carbon dioxide during photosynthesis to produce glucose and oxygen. }~
